@@ -1,6 +1,6 @@
 
 <html>
-
+xxxxxxx
 <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -15,7 +15,7 @@
 </head>
 
 <body>
-   <img class="wave" src="img/wave1.png">
+   <img class="wave" src="img/wave1x.png">
    <div class="container">
       
    <div class="login-content">
