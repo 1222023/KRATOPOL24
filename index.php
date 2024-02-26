@@ -25,7 +25,7 @@
             
            
            
-            <input name="btningresar" class="btn" value="INICIAR SESION"onclick="location='inicio_invitado.php'" >
+            <input name="btningresar" class="btn" value="INICIAR SESION" onclick="location='index_invitado.php'" >
          </form>
       </div>
      
