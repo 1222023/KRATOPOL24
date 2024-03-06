@@ -71,7 +71,7 @@
        
                     <td>
                         <a href="modificar_persona.php? ID_CIP=<?= $datos->ID_CIP ?>" class="btn btn-small btn-warning"> <i class="fa-solid fa-pen-to-square"></i></a>
-                        <a href="" class="btn btn-small btn-danger"> <i class="fa-solid fa-trash"></i></a>
+                        <a onclick="return liminar()" class="btn btn-small btn-danger"> <i class="fa-solid fa-trash"></i></a>
                         </td>
                        </tr>
                     <?php }

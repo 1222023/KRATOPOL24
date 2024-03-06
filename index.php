@@ -33,6 +33,13 @@
          <form method="post" action="">
             <img src="img/avatar.jpg">
             <h2 class="title">BIENVENIDO USUARIO</h2>
+            <?php
+               include("modelo/conexion.php");
+               include("controlador/controlador.php");
+               ?>
+
+
+
             <div class="input-div one">
                <div class="i">
                   <i class="fas fa-user"></i>
